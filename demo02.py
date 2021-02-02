@@ -1,3 +1,3 @@
 
 
-print('wordggg')
+print('word vv')
