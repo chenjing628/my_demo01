@@ -1,5 +1,3 @@
 
 
-print('hello word')
-
-print('gg')
+print('word')
